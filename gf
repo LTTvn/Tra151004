@@ -1,0 +1,1 @@
+old difficulty * (2016 * 10p) / mining time
